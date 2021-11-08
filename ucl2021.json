@@ -1,0 +1,18 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.chelsea",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"ucl2021fg3",
+         "name":"vs Malmo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2021fg4",
+         "name":"vs Malmo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      }
+   ]
+}
