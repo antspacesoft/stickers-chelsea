@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubworldcup2021f1",
+         "name":"vs Palmeiras (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clubworldcup2021f1a1",
+         "name":"vs Palmeiras (2)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"clubworldcup2021s1",
          "name":"vs Al-Hilal",
          "animated_sticker_pack":false,

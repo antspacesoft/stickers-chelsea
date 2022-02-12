@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubworldcup2021a1",
+         "name":"vs Palmeiras (2)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"goal2021a1",
          "name":"Goal Animated",
          "animated_sticker_pack":true,
