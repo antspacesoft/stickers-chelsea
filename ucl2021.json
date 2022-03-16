@@ -3,12 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"ucl2021o2",
-         "name":"vs Lille (2)",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
          "identifier":"ucl2021o1",
          "name":"vs Lille",
          "animated_sticker_pack":false,
