@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526a",
+         "name":"Kit Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kit2526b",
+         "name":"Kit Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"clubworldcup2025w4",
          "name":"Champions Club World Cup (3)",
          "animated_sticker_pack":false,
